@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dang Quoc Khanh</h1>
-<h3 align="center">A passionate frontend-backend developer from Vietnam</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanhdangbmt&label=Profile%20views&color=0e75b6&style=flat" alt="khanhdangbmt" /> </p>
-
-- 🌱 I’m currently learning **Nodejs, python**
 
 - 📫 How to reach me **khanhdangbmt@gmail.com**
 
